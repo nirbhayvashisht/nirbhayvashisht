@@ -2,7 +2,6 @@
 
 <!--
 **nirbhayvashisht/nirbhayvashisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="nirbhayvashisht's github stats" src="github-readme-stats.nirbhayvashisht.vercel.app/api?username=nirbhayvashisht&show_icons=true&hide_border=true" />
+
+</details>

@@ -3,12 +3,15 @@
 </div>
 
 <div align="center">
-<h3>💻 Computer Science Engineering Undergrad | :earth_asia: New Delhi, India <h3>
+  <h3>💻 Computer Science Engineering Undergrad | :earth_asia: New Delhi, India <h3>  
 </div>
 
 
 <div align="center">
   <h2>About Me</h2>
+  <p>I am Nirbhay Vashisht, currently pursuing my bachelor's degree majoring in computer science from Guru Gobind Singh Indraprastha University. I am a tech enthusiast with a passion for learning and sharing my knowledge with others.</p> 
+  <p>Besides programming, I love interacting with the Developer Community through Community Building, Organising or Speaking at meetups, workshops or hackathons.   </p>
+  <p>I write technical articles on <a href="https://dev.to/nirbhayvashisht">dev.to</a> and freeCodeCamp. AND I try help code newbies and beginners on <a href="https://twitter.com/nirbhayvashisht">Twitter</a></p>
 </div>
 
 <div align="center">

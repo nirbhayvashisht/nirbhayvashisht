@@ -5,7 +5,13 @@
 <!--div align="center">
   <h3>💻 Computer Science Engineering Undergrad | :earth_asia: New Delhi, India <h3>  
 </div-->
+<div align="center">
 
+[![Twitter Link](https://img.shields.io/twitter/follow/nirbhayvashisht?color=1DA1F2&label=%40nirbhayvashisht&logo=Twitter&style=flat)](https://twitter.com/nirbhayvashisht)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/nirbhayvashisht%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/nirbhayvashisht/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/nirbhayvashisht%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nirbhayvashisht/)
+[![Dev.to link](https://img.shields.io/badge/dev.to/nirbhayvashisht%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/nirbhayvashisht)
+</div>
 <!--                                                  About Me                           -->
 <div align="center">
   <h2>About Me</h2>
@@ -13,11 +19,11 @@
   <p>Besides programming, I love interacting with the Developer Community through Community Building, Organising or Speaking at meetups, workshops or hackathons.   </p>
   <p>I write technical articles on <a href="https://dev.to/nirbhayvashisht">dev.to</a> and freeCodeCamp. AND I try help code newbies and beginners on <a href="https://twitter.com/nirbhayvashisht">Twitter</a></p>
 </div>
-
+<!--
+<h2>Social Links</h2>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nirbhayvashisht?color=1DA1F2&label=%40nirbhayvashisht&logo=Twitter&style=flat-square">
+-->
 <h2>Tools and Technologies</h2>
-
-<details open>
-  <summary></summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-45b8d8?style=flat-square&logo=java&logoColor=white)
@@ -35,17 +41,8 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white")
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 
-</details>
-
 <div align="center">
 </div>
-
-<details>
-  <summary></summary>
-  
-</details>
-
-
 
 
 

@@ -10,9 +10,10 @@
 <div align="center">
 
 [![Twitter Link](https://img.shields.io/twitter/follow/nirbhayvashisht?color=1DA1F2&label=%40nirbhayvashisht&logo=Twitter&style=flat)](https://twitter.com/nirbhayvashisht)
+[![Dev.to link](https://img.shields.io/badge/dev.to/nirbhayvashisht%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/nirbhayvashisht)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/nirbhayvashisht%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/nirbhayvashisht/)
 [![Instagram Link](https://img.shields.io/badge/instagram.com/nirbhayvashisht%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nirbhayvashisht/)
-[![Dev.to link](https://img.shields.io/badge/dev.to/nirbhayvashisht%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/nirbhayvashisht)
+[![Medium link](https://img.shields.io/badge/-medium.com/@nirbhayvashisht-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@nirbhayvashisht)
 </div>
 
 
@@ -50,9 +51,15 @@
 
 ![Adobe Premier Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-EA77FF?&style=flat-square&logo=Adobe-premiere-pro&logoColor=white)
 
+
+<!--							Licenses & Certification				-->
 <h2>Licenses & Certifications</h2>
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
+[![JavaScript Algorithms and Data Structures Certification](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
+[![Java Online Course by Coding Blocks](https://img.shields.io/badge/-Java_Online_Course_by_Coding_Blocks-45b8d8?style=flat-square&logo=java&logoColor=white)](https://online.codingblocks.com/app/certificates/CBOL-21737-75ac)
+[![Premiere Pro 2020 Essential training](https://img.shields.io/badge/-Premiere_Pro_2020_Essential_Training-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Premiere%20Pro%202020%20Essential%20Training.jpg)
+[![Networking Foundations: Networking Basics](https://img.shields.io/badge/-Networking_Foundations:_Networking_Basics-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Networking%20Foundations_%20Networking%20Basics.jpg)
+[![Time Management Fundamentals](https://img.shields.io/badge/-Time_Management_Fundamentals-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Time%20Management%20Fundamentals.jpg)
 
 
 <h2>Experience</h2>

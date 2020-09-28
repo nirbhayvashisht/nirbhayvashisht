@@ -104,7 +104,7 @@
 <h2>Latest Posts</h2>
 <ul>
 <li><a href="https://dev.to/nirbhayvashisht/fundamentals-of-cloud-computing-5g4g"><b> ☁️ Fundamentals of Cloud Computing</b></a><br></li>
-<li><a href="https://dev.to/nirbhayvashisht/waking-up-early-in-the-morning-how-and-why-1eem"><b> 🌅 Wakng Up Early in the Morning: Why and How</b></a><br></li>
+<li><a href="https://dev.to/nirbhayvashisht/waking-up-early-in-the-morning-how-and-why-1eem"><b> 🌅 Waking Up Early in the Morning: Why and How</b></a><br></li>
 <li><a href="https://dev.to/nirbhayvashisht/burnout-as-a-developer-experience-symptoms-prevention-and-cure-20e2"><b> 🤯 Burnout as a Developer: Experience, Symptoms, Prevention and Cure</b></a><br></li>
 <li><a href="https://dev.to/nirbhayvashisht/introduction-to-git-and-github-4jg8"><b> 😄 Introduction to Git and GitHub</b></a><br></li>
 </ul>

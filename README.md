@@ -50,8 +50,10 @@
 
 ![Adobe Premier Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-EA77FF?&style=flat-square&logo=Adobe-premiere-pro&logoColor=white)
 
-<div align="center">
-</div>
+<h2>Licenses & Certifications</h2>
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
+
 
 <h2>Experience</h2>
 <table>
@@ -97,3 +99,6 @@
   [![Top Langs](https://github-readme-stats.nirbhayvashisht.vercel.app/api/top-langs/?username=nirbhayvashisht&layout=compact&langs_count=6)](https://github.com/nirbhayvashisht/github-readme-stats)
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=nirbhayvashisht)
+

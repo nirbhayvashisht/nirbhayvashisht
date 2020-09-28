@@ -1,4 +1,4 @@
-<!--                                                  Hi there, I'm Nirbhay            -->
+<!-------------------------------------------------------Hi there, I'm Nirbhay------------------------------>
 <div align="center">
   <h1>Hi there, I'm <a href="https://twitter.com/nirbhayvashisht" target="_blank">Nirbhay</a> (He/Him/His) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
@@ -6,6 +6,7 @@
   <h3>💻 Computer Science Engineering Undergrad | :earth_asia: New Delhi, India <h3>  
 </div-->
 
+<!----------------------------------------------------Social links------------------------------------------->
 
 <div align="center">
 
@@ -17,7 +18,7 @@
 </div>
 
 
-<!--                                                  About Me                           -->
+<!---------------------------------------------------------- About Me---------------------------------------------------->
 <div align="center">
   <h2>About Me</h2>
   <p>I am Nirbhay Vashisht, currently pursuing my bachelor's degree majoring in computer science from Guru Gobind Singh Indraprastha University. I am a tech enthusiast with a passion for learning and sharing my knowledge with others.</p> 
@@ -29,7 +30,7 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nirbhayvashisht?color=1DA1F2&label=%40nirbhayvashisht&logo=Twitter&style=flat-square">
 -->
 
-
+<!-------------------------------------------------------Tools and Technologies----------------------------------------->
 
 <h2>Tools and Technologies</h2>
 
@@ -52,7 +53,7 @@
 ![Adobe Premier Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-EA77FF?&style=flat-square&logo=Adobe-premiere-pro&logoColor=white)
 
 
-<!--							Licenses & Certification				-->
+<!-------------------------------------------------------------Licenses & Certification	----------------------------------------->
 <h2>Licenses & Certifications</h2>
 
 [![JavaScript Algorithms and Data Structures Certification](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
@@ -61,7 +62,7 @@
 [![Networking Foundations: Networking Basics](https://img.shields.io/badge/-Networking_Foundations:_Networking_Basics-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Networking%20Foundations_%20Networking%20Basics.jpg)
 [![Time Management Fundamentals](https://img.shields.io/badge/-Time_Management_Fundamentals-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Time%20Management%20Fundamentals.jpg)
 
-
+<!------------------------------------------------------Experience----------------------------------->														
 <h2>Experience</h2>
 <table>
   <thead align="center">
@@ -98,6 +99,15 @@
   </tbody>
 </table>
 
+
+<!--------------------------------------------------------Latest Blog Posts------------------------------------->
+<h2>Latest Posts</h2>
+<a href="https://dev.to/nirbhayvashisht/fundamentals-of-cloud-computing-5g4g"><b> ☁️ Fundamentals of Cloud Computing</b></a><br>
+<a href="https://dev.to/nirbhayvashisht/waking-up-early-in-the-morning-how-and-why-1eem"><b> 🌅 Wakng Up Early in the Morning: Why and How</b></a><br>
+<a href="https://dev.to/nirbhayvashisht/burnout-as-a-developer-experience-symptoms-prevention-and-cure-20e2"><b> 😈 Burnout as a Developer: Experience, Symptoms, Prevention and Cure</b></a><br>
+<a href="https://dev.to/nirbhayvashisht/introduction-to-git-and-github-4jg8"><b> 😄 Introduction to Git and GitHub</b></a><br>
+
+<!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 
 <details>
   <summary>:zap: <b>Github Stats</b></summary>

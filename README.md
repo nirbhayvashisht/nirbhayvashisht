@@ -102,13 +102,14 @@
 
 <!--------------------------------------------------------Latest Blog Posts------------------------------------->
 <h2>Latest Posts</h2>
-<a href="https://dev.to/nirbhayvashisht/fundamentals-of-cloud-computing-5g4g"><b> ☁️ Fundamentals of Cloud Computing</b></a><br>
-<a href="https://dev.to/nirbhayvashisht/waking-up-early-in-the-morning-how-and-why-1eem"><b> 🌅 Wakng Up Early in the Morning: Why and How</b></a><br>
-<a href="https://dev.to/nirbhayvashisht/burnout-as-a-developer-experience-symptoms-prevention-and-cure-20e2"><b> 😈 Burnout as a Developer: Experience, Symptoms, Prevention and Cure</b></a><br>
-<a href="https://dev.to/nirbhayvashisht/introduction-to-git-and-github-4jg8"><b> 😄 Introduction to Git and GitHub</b></a><br>
-
+<ul>
+<li><a href="https://dev.to/nirbhayvashisht/fundamentals-of-cloud-computing-5g4g"><b> ☁️ Fundamentals of Cloud Computing</b></a><br></li>
+<li><a href="https://dev.to/nirbhayvashisht/waking-up-early-in-the-morning-how-and-why-1eem"><b> 🌅 Wakng Up Early in the Morning: Why and How</b></a><br></li>
+<li><a href="https://dev.to/nirbhayvashisht/burnout-as-a-developer-experience-symptoms-prevention-and-cure-20e2"><b> 🤯 Burnout as a Developer: Experience, Symptoms, Prevention and Cure</b></a><br></li>
+<li><a href="https://dev.to/nirbhayvashisht/introduction-to-git-and-github-4jg8"><b> 😄 Introduction to Git and GitHub</b></a><br></li>
+</ul>
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
-
+<br>
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
@@ -116,6 +117,7 @@
   [![Top Langs](https://github-readme-stats.nirbhayvashisht.vercel.app/api/top-langs/?username=nirbhayvashisht&layout=compact&langs_count=6)](https://github.com/nirbhayvashisht/github-readme-stats)
 
 </details>
+<br>
 
 ![](https://komarev.com/ghpvc/?username=nirbhayvashisht)
 

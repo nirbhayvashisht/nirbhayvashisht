@@ -5,6 +5,8 @@
 <!--div align="center">
   <h3>💻 Computer Science Engineering Undergrad | :earth_asia: New Delhi, India <h3>  
 </div-->
+
+
 <div align="center">
 
 [![Twitter Link](https://img.shields.io/twitter/follow/nirbhayvashisht?color=1DA1F2&label=%40nirbhayvashisht&logo=Twitter&style=flat)](https://twitter.com/nirbhayvashisht)
@@ -12,6 +14,8 @@
 [![Instagram Link](https://img.shields.io/badge/instagram.com/nirbhayvashisht%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nirbhayvashisht/)
 [![Dev.to link](https://img.shields.io/badge/dev.to/nirbhayvashisht%20-black.svg?&style=flat&logo=dev.to&logoColor=white)](https://dev.to/nirbhayvashisht)
 </div>
+
+
 <!--                                                  About Me                           -->
 <div align="center">
   <h2>About Me</h2>
@@ -23,6 +27,9 @@
 <h2>Social Links</h2>
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nirbhayvashisht?color=1DA1F2&label=%40nirbhayvashisht&logo=Twitter&style=flat-square">
 -->
+
+
+
 <h2>Tools and Technologies</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
@@ -41,9 +48,46 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat-square&logo=dart&logoColor=white")
 ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white)
 
+![Adobe Premier Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-EA77FF?&style=flat-square&logo=Adobe-premiere-pro&logoColor=white)
+
 <div align="center">
 </div>
 
+<h2>Experience</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Role</b></td>
+      <td><b>Company</b></td>
+      <td><b>Start Date</b></td>
+      <td><b>End Date</b></td>
+      <td><b>Duration</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://studentambassadors.microsoft.com/"><b>Microsoft Learn Student Ambassador</b></a></td>
+      <td><img alt="Microsoft" src="https://img.shields.io/badge/-Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
+      <td>Aug 2020</td>
+      <td>Present</td>
+      <td>-</td>
+    </tr>
+	  <tr>
+		  <td><b>Microsoft Student Partner</b></td>
+      <td><img alt="Microsoft" src="https://img.shields.io/badge/-Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></td>
+      <td>Sep 2019</td>
+      <td>July 2020</td>
+      <td>11 Months</td>
+    </tr>
+		<tr>
+			<td><b>Marketing Intern</b></a></td>
+      <td><a href="https://codingblocks.com/">Coding Blocks</a></td>
+      <td>Apr 2019</td>
+      <td>Aug 2020</td>
+      <td>1yr 5mos</td>
+    </tr>
+  </tbody>
+</table>
 
 
 <details>

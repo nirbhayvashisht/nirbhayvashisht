@@ -53,10 +53,10 @@
 ![Adobe Premier Pro](https://img.shields.io/badge/-Adobe_Premiere_Pro-EA77FF?&style=flat-square&logo=Adobe-premiere-pro&logoColor=white)
 
 
-<!-------------------------------------------------------------Licenses & Certification	----------------------------------------->
-<h2>Licenses & Certifications</h2>
+<!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
+<!--h2>Licenses & Certifications</h2>
 
-[![JavaScript Algorithms and Data Structures Certification](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
+<!--[![JavaScript Algorithms and Data Structures Certification](https://img.shields.io/badge/-JavaScript_Algorithms_and_Data_Structures-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/certification/nirbhayvashisht/javascript-algorithms-and-data-structures)
 [![Java Online Course by Coding Blocks](https://img.shields.io/badge/-Java_Online_Course_by_Coding_Blocks-45b8d8?style=flat-square&logo=java&logoColor=white)](https://online.codingblocks.com/app/certificates/CBOL-21737-75ac)
 [![Premiere Pro 2020 Essential training](https://img.shields.io/badge/-Premiere_Pro_2020_Essential_Training-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Premiere%20Pro%202020%20Essential%20Training.jpg)
 [![Networking Foundations: Networking Basics](https://img.shields.io/badge/-Networking_Foundations:_Networking_Basics-0077B5?style=flat-square&logo=linkedIn&logoColor=white)](https://github.com/nirbhayvashisht/nirbhayvashisht/blob/master/Certificates/CertificateOfCompletion_Networking%20Foundations_%20Networking%20Basics.jpg)
